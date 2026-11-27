@@ -1,0 +1,16 @@
+# Instructor's milestone specifications 
+course-specs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Django local files
+db.sqlite3
+media/
+staticfiles/
+
+# Secrets
+.env
